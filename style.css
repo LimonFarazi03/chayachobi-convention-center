@@ -33,3 +33,13 @@ ul li i{
   background: #3F87F5;
   color: white;
 }
+.hot{
+  background: #FF4E4E;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 30%;
+  top: -15px;
+  right: 1px;
+}
