@@ -46,3 +46,11 @@ ul li i{
 .rnd{
   border-radius: 20px;
 }
+.brderClr{
+  border-left: 10px solid #3F87F5;
+  border-radius: 2px;
+}
+.brderClr i{
+  font-size: 25px;
+  color: #3F87F5;
+}
