@@ -7,3 +7,29 @@ body{
 .loremClr{
   color: #6C6C6C;
 }
+.pragraph{
+  font-size: 16px;
+  text-align: justify;
+  color: #6C6C6C;
+}
+ul li{
+  list-style-type: none;
+}
+ul li i{
+ padding-right: 10px;
+ color: #a5a4a4;
+}
+
+.butnClr{
+  background-color: #f496d17a;
+}
+.butnClrv2{
+  background-color: white;
+}
+.priceClr{
+  color: #3F87F5;
+}
+.bacClr{
+  background: #3F87F5;
+  color: white;
+}
